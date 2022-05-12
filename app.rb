@@ -8,7 +8,7 @@
   '-' => 'T', '..-' => 'U', '...-' => 'V',
   '.--' => 'W', '-..-' => 'X', '-.--' => 'Y',
   '--..' => 'Z'
-  }
+}
 
 def decode_char(morse_char)
   @morse_code[morse_char]
