@@ -12,11 +12,11 @@
 
 Start by cloning the repository.
 
-`git clone git@github.com:TimmyChan99/morse_code.git`
+`https://github.com/Banstein/decode-morse-message.git`
 
 Navigate to the created folder.
 
-`cd morse_code`
+`cd decode-morse-message`
 
 Have fun with morse code translation.
 
